@@ -137,8 +137,8 @@ https://github.com/FreeRDP/FreeRDP/security
 
 ## Researcher
 
-**Anmol Singh**  
-Independent Security Researcher
+**Saurabh Pal**  
+ Security Researcher
 
 Research project: **GhostTiles — FreeRDP Progressive Codec**
 
