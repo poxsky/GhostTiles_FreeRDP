@@ -13,7 +13,7 @@
 ![Impact](https://img.shields.io/badge/Impact-Memory%20Exhaustion-red)
 ![CVE](https://img.shields.io/badge/CVE-Pending-lightgrey)
 
-**Researcher: Anmol Singh**
+**Researcher: Saurabh Pal**
 
 </div>
 
