@@ -148,4 +148,4 @@ This repository is intended for defensive security research, technical education
 
 ---
 
-**GhostTiles | Research by Anmol Singh | CVE Pending**
+**GhostTiles | Research by Saurabh Pal| CVE Pending**
